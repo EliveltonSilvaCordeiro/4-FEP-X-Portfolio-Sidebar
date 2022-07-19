@@ -33,6 +33,15 @@ This is a challenge given by <a href="https://github.com/HenriqueSSan/" target="
 
 The challenge main objectives are:
 
+- Follow the design
+
+#### 🖥️ Desktop
+![Desktop Design](https://user-images.githubusercontent.com/105513033/179641380-d04907ca-4bb3-4032-919b-07f1b26cdeeb.png)
+
+#### 📱 Mobile
+![Mobile Design](https://user-images.githubusercontent.com/105513033/179641426-2cd5eb1a-c2ff-4187-bef9-50f1e3b7f280.png)
+
+
 - Must use the recommended recommendations
 ```css
 <!--Recommendations-->
